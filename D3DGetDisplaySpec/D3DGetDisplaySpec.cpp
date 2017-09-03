@@ -258,6 +258,9 @@ int main()
 	// MaxFullFrameLuminance
 	std::cout << "MaxFullFrameLuminance: " << outputDesc.MaxFullFrameLuminance << std::endl;
 
+	// BitsPerColor
+	std::cout << "BitsPerColor: " << outputDesc.BitsPerColor << std::endl;
+
     return 0;
 }
 
