@@ -2,7 +2,7 @@
 
 Windows 10 Creators Updateで追加されたDXGI 1.6の機能を使ってディスプレイの輝度情報、色空間を取得する例です.  
 
-![Screen Shot](https://github.com/shaderjp/ShaderjpDirect3D12Samples/blob/master/ScreenShot/sample-768x451.png)
+![Screen Shot](https://github.com/shaderjp/DisplaySpecCheck/blob/master/ScreenShots/screenshot.png)
 
 # 必要な環境  
 
