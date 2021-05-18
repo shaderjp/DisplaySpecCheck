@@ -4,6 +4,8 @@ Windows 10 Creators Updateで追加されたDXGI 1.6の機能を使ってディ�
 
 ![Screen Shot](https://github.com/shaderjp/DisplaySpecCheck/blob/master/ScreenShots/screenshot.png)
 
+![Screen Shot2](https://github.com/shaderjp/DisplaySpecCheck/blob/master/ScreenShots/screenshot2.png)
+
 # 必要な環境  
 
 * Windows 10 Creators Update (version 1607)
